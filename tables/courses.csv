@@ -1,0 +1,123 @@
+program_id,program_name,category,school_id
+1,"Front End Web Developer","web development",11118
+2,"Introduction to Data Analytics",data,11035
+3,"UX Research & Strategy","UX/UI Design",10697
+4,"Software Development Engineer in Test (SDET)","web development",11539
+5,"Blockchain & Web 3.0 Development","web development",11539
+7,"Introduction to Machine Learning",data,11118
+8,"Data Science Bootcamp (Full-Time)",data,10761
+9,"Android Developer","web development",11118
+10,"UX/UI Design Part-Time","UX/UI Design",10828
+15,"Data Analyst Bootcamp",data,10846
+16,"UX/UI Design Bootcamp","UX/UI Design",10828
+17,"User Experience Design (Short Course)","UX/UI Design",10761
+18,"Salesforce Administrator & Developer","web development",11539
+19,"Backend Development Bootcamp","web development",10846
+20,"Full-Stack Software Engineering: Evenings & Weekends","web development",10627
+23,"Full-Time Remote Software Engineering Immersive","web development",10643
+24,"Full-stack Web Development","web development",10517
+25,"Journey to Design","UX/UI Design",11584
+26,"Data Science Bootcamp",data,10571
+27,"Full Stack Development","web development",11539
+29,"User Experience Design Bootcamp","UX/UI Design",10571
+31,"Full Stack Web Development with IT Fundamentals - Premium Full Time/Part Time with Limited Seats","web development",11539
+32,"Data Analytics (Premium)",data,11539
+33,"Java Full Stack Developer Bootcamp","web development",10846
+35,"Actualize Coding Bootcamp: Part-Time","web development",10505
+36,"Data Analytics & Business Intelligence Bootcamp",data,11736
+37,"Cloud Developer","web development",11118
+38,"Introduction to Design","UX/UI Design",11035
+40,"Design Leadership Course","UX/UI Design",10571
+41,"User Interface Design Course","UX/UI Design",10571
+42,"Full-Stack Software Engineering: Immersive","web development",10627
+44,"Web Development Course","web development",10571
+45,"Data Analytics with Prep for DS",data,11539
+48,"Natural Language Processing (NLP)",data,11539
+49,"Frontend Development Bootcamp","web development",10846
+50,"Part-Time Software Engineering Immersive","web development",10643
+51,"Data Analytics Part-Time",data,10828
+52,"Data Analytics Bootcamp",data,10828
+54,"Robotics Software Engineer","web development",11118
+55,"Data Science Career Track",data,11035
+56,"Machine Learning/Deep Learning",data,11539
+58,"Web Development Part-Time","web development",10828
+59,"UX Academy","UX/UI Design",10697
+61,"Software Engineering Bootcamp","web development",10571
+62,"Data Structures and Algorithms",data,11118
+63,"UX Career Track","UX/UI Design",11035
+64,"R for Data Analysis",data,10683
+66,"Machine Learning Engineer",data,11118
+67,"Java Coding Bootcamp","web development",11056
+68,"Visual Design (Short Course)","UX/UI Design",10761
+69,"Professional Diploma in UX Design","UX/UI Design",11150
+70,"Back-end Web Development","web development",10517
+71,"Design 101","UX/UI Design",10697
+72,"Front-end Web Development","web development",10517
+73,"Professional Certificate in UI Design","UX/UI Design",11150
+74,"Data Analytics (Short Course)",data,10761
+75,"Front End Development with IT Fundamentals - Premium Full Time/Part Time with Limited Seats","web development",11539
+77,"Marketing Analytics",data,11118
+78,"UI Design","UX/UI Design",10697
+81,"Front-End Web Development (Short Course)","web development",10761
+83,"UI/UX Design","UX/UI Design",10862
+85,"Deep Learning",data,11118
+87,"Data Analyst Bootcamp (Part-Time)",data,11740
+90,"Coding 101","web development",10517
+91,"Software Engineering Career Track","web development",11035
+92,"iOS Developer","web development",11118
+94,"Software Engineering Career Track Prep Course","web development",11035
+96,"Data Analytics",data,11225
+97,"User Experience Design Course","UX/UI Design",10571
+99,"Data Visualization",data,11118
+100,"Actualize Coding Bootcamp: Online Live","web development",10505
+101,"Business Intelligence Analytics",data,11225
+102,"Java Developer","web development",11118
+105,"Data Science - Premium Full Time/Part Time with Limited Seats",data,11539
+106,"Business Analytics",data,11118
+107,"Live Online Design Sprint Experience","UX/UI Design",10698
+108,"Front-End Web Development","web development",11035
+109,"Python for Data Analysis",data,10683
+110,"Data Science Course",data,10571
+111,"Data Analyst",data,11118
+114,"Data Science Career Track Bootcamp",data,10846
+117,"Back End Development","web development",11539
+119,"Data Analytics & Business Intelligence Course",data,11797
+120,"UX program based on real projects with real social good clients (15-wk part-time)","UX/UI Design",10546
+122,"UX Academy Foundations","UX/UI Design",10697
+123,"UI/UX Design Bootcamp","UX/UI Design",10846
+124,"UX: Interaction Design","UX/UI Design",10697
+125,"Full Stack Web Development - Premium Full Time/Part Time with Limited Seats","web development",11539
+126,"Software Engineering Bootcamp (Full-Time)","web development",10761
+129,"Certificate in Software and Coding Fundamentals for UX","UX/UI Design",11150
+130,"Full-Stack Developer Bootcamp","web development",11736
+132,"JavaScript for Beginners","web development",10643
+133,"Data Science Career Track Prep",data,11035
+134,"Data Analytics Course",data,10571
+135,"Data Science (Short Course)",data,10761
+138,"React Development (Short Course)","web development",10761
+139,"Blockchain Developer","web development",11118
+141,"React JS Development","web development",11539
+142,"Machine Learning/Deep Learning (Premium)",data,11539
+144,"Actualize Coding Bootcamp: Full-Time","web development",10505
+147,"Data Science & Data Engineering Bootcamp",data,11736
+148,"Predictive Analytics for Business",data,11118
+149,"Natural Language Processing",data,11118
+150,"UX Designer","UX/UI Design",11118
+151,"Data Analytics Career Track",data,11035
+152,"JavaScript Development (Short Course)","web development",10761
+153,"User Experience Design Bootcamp (Full-Time)","UX/UI Design",10761
+154,".NET Coding Bootcamp","web development",11056
+155,"Data Science with Prep",data,11539
+156,"Data Science Part-Time",data,10862
+158,"Full Stack Web Developer","web development",11118
+159,"Data Science",data,11539
+161,"Full-Stack Development Bootcamp","web development",10846
+162,"Software Engineering","web development",11225
+164,"Data Engineer",data,11118
+165,"Front End Development","web development",11539
+166,"UI/UX Design Career Track","UX/UI Design",11035
+167,"Data Analytics Bootcamp (Full-Time)",data,10761
+168,"Software Engineering Foundations to Core","web development",11035
+169,"Data Engineer Bootcamp",data,10846
+170,"Web Development Bootcamp","web development",10828
+173,"Cloud for Machine Learning (Streamlit & Sagemaker)",data,11539
